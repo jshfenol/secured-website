@@ -1,0 +1,28 @@
+<html>
+<font color="white">
+<title>MENU</title>
+<head>
+<style>
+body
+{
+background-image: url("coffee.jpg");
+}
+</style>
+</head>
+
+<body>
+
+<center>
+<h1>O.L.D CAFE<br>MENU</h1>
+<hr style="width:100%" color="white" length:"20px">
+<a href="DRINKS.html"><image src="3md.jpg" height="350" width="650"></a>
+<p><b>DRINKS</b></p>
+<a href="SANDWICHES.html"><image src="3a.jpg" height="350" width="650"></a>
+<p><b>SANDWISCHES</b></p>
+<a href="CAKES AND PASTRIES.html"><image src="3D.jpg" height="350" width="650"></a>
+<p><b>CAKES AND PASTRIES</b></p>
+
+</font>
+</center>
+</body>
+</html>

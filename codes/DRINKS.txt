@@ -1,0 +1,31 @@
+<html>
+<body>
+<head>
+<style>
+body
+{
+background-image: url("backb1.jpg");
+}
+</style>
+</head>
+
+<font color="white">
+
+<center>
+<h1>DRINKS</h1>
+
+<p>Caramel Macchiato (P145/short, P155/tall, P170/grande, P185/venti)<br><br><image src="macchiato.jpg" height="350" width="650"><br>
+Is anyone really surprised that this classic Starbucks drink is one of the most-ordered drinks locally? This espresso-based drink is perfect for those who like their coffee fix sweet, with freshly steamed milk blended with vanilla syrup, and topped with caramel drizzle in the signature crisscross pattern.</p><br><br>
+<p>White Chocolate Mocha (P145/short, P155/tall, P170/grande, P185/venti)<br><br><image src="white chocolate.jpg" height="350" width="650"><br>
+It's easy to see why the White Chocolate Mocha is a dependable drink, especially for first-timers.  It's no secret that chocolate goes well with coffee, with the latter's dark notes boosting the sweetness of the former—common knowledge that resulted in the mocha, a drink that blends espresso, chocolate, and milk. Starbucks' white-chocolate version has espresso, steamed milk, whipped cream, and white chocolate syrup.</p><br><br>
+<p>Caffè Americano (P110/short, P120/tall, P145/grande, P160/venti)<br><br><image src="cafe americano.jpg" height="350" width="650"><br>
+Sometimes all you need is a straightforward cuppa to get you through the rest of the day, and the Caffè Americano fits the bill. From the name, you can already tell that Americans had something to do with the invention of this now-classic. It's popularly believed that the Americano was born from Americans based in Italy who would pour hot water over their espresso to dilute it.</p><br><br>
+<p>Chocolate Cream Chip Frappuccino (P165/tall, P180/grande, P195/venti)<br><br><image src="chocolate cream.jpg" height="350" width="650"><br>
+For those who like a sugar rush with their coffee, the Chocolate Cream Chip Frappuccino is the way to go. Starbucks takes their Mocha Frappuccino and adds chocolate chips into the blend, then tops it all off with whipped cream and more drizzles of mocha syrup. With all the chocolatey things happening in this drink, it’s no wonder it's such a hit.</p><br><br>
+<p>Coffee Jelly Frappuccino (P165/tall, P180/grande, P195/venti)<br><br><image src="coffee jelly.jpg" height="350" width="650"><br>
+The Coffee Jelly Frappuccino is another one of those special flavors that is only available in selected countries, including the Philippines. This one originally came from Starbucks Japan and is inspired by one of their favorite desserts, coffee jelly. This best-selling drink has three delectable layers: A bottom layer of coffee jelly, caramel Frappuccino, and whipped cream topped with caramel drizzle.</p><br><br>
+
+</font>
+</center>
+</body>
+</html>
